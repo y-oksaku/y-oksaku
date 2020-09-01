@@ -1,6 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=y-oksaku&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-oksaku&layout=compact" />
-</a>
+<div>
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=y-oksaku&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-oksaku&layout=compact" />
+</div>
